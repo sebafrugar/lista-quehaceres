@@ -1,0 +1,19 @@
+
+
+.header{
+    margin-top: 45px;
+    margin-bottom: 55px;
+}
+
+.form{
+    padding: 10px;
+}
+
+h3{
+    margin-bottom: 50px;
+}
+
+ol{
+    display: inline-block;
+    align-items: center;
+}
